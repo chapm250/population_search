@@ -71,15 +71,13 @@
 ;;      :total-weight (reduce + (map :weight included))
 ;;      :total-value (reduce + (map :value included))}))
 
-;; (defn tweak-choice
-;;   [choice]
+(defn tweak-choice
+  [choice x]
+  (def conchoice (into [] choice))
+  (if (> x 0)
+  (tweak-choice (assoc conchoice (rand-int 4) (rand-int 1)) (dec x))
+    (seq choice)
+  ))
 
 
-;;  (println (random-place (random-answer knapPI_16_20_1000_1)))
-
-;; (println  (into [] (concat [(rand-int 3) (rand-int 3) (rand-int 3)] [3 4 5])))
-;; (println (replace [1 0 1 0 1 1] (into [] (concat [(rand-int 3) (rand-int 3) (rand-int 3)] [3 4 5])) ))
-(println (replace '(1 0 1 0 1 1) [1 2 3 4 5 6]))
-
-;; (defn hillClimb
-;;   [instance]
+(println (tweak-choice '(1 1 1 1 1) 5))
