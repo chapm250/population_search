@@ -32,7 +32,7 @@
      :total-value (reduce + (map :value included))}))
 
 
-;;  (println (random-answer knapPI_16_20_1000_1))
+  ;(println (random-answer knapPI_16_20_1000_1))
 
 ;;; It might be cool to write a function that
 ;;; generates weighted proportions of 0's and 1's.
@@ -58,26 +58,35 @@
          (map add-score
               (repeatedly max-tries #(random-answer instance)))))
 
-;; (time (random-search knapPI_16_20_1000_1 1000000
-;; ))
+(defn find-answer
+  [choice instance]
+  (let [choices (choice)
+        included (included-items (:items instance) choices)]
+    {:instance instance
+     :choices choices
+     :total-weight (reduce + (map :weight included))
+     :total-value (reduce + (map :value included))}))
 
-;; (defn random-place
-;;   [instance]
-;;   (let [choices (repeatedly (+ (rand-int 3) 1)
-;;                             #(rand-int 2))
-;;         included (included-items (:items instance) choices)]
-;;     {:instance instance
-;;      :choices choices
-;;      :total-weight (reduce + (map :weight included))
-;;      :total-value (reduce + (map :value included))}))
+
+
 
 (defn tweak-choice
   [choice x]
   (def conchoice (into [] choice))
   (if (> x 0)
-  (tweak-choice (assoc conchoice (rand-int 4) (rand-int 1)) (dec x))
+  (tweak-choice (assoc conchoice (rand-int (count conchoice)) (rand-int 1)) (dec x))
     (seq choice)
   ))
 
+(println (tweak-choice (:choices (random-answer knapPI_16_20_1000_1))  3))
+;(tweak-choice '(1 1 1 1 1)  3)
 
-(println (tweak-choice '(1 1 1 1 1) 5))
+(defn hill-climb
+  [winner max-tries instance]
+  (if (> max-tries 0)
+      (hill-climb (max-key :total-value (:total-value winner) (:total-value (find-answer (tweak-choice (:choices winner) 3) instance))) (dec max-tries) instance)
+   ))
+
+(hill-climb (random-answer knapPI_16_20_1000_1) 100 knapPI_16_20_1000_1)
+
+
