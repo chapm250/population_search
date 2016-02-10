@@ -60,7 +60,7 @@
 
 (defn find-answer
   [choice instance]
-  (let [choices (choice)
+  (let [choices choice
         included (included-items (:items instance) choices)]
     {:instance instance
      :choices choices
@@ -72,21 +72,50 @@
 
 (defn tweak-choice
   [choice x]
-  (def conchoice (into [] choice))
-  (if (> x 0)
-  (tweak-choice (assoc conchoice (rand-int (count conchoice)) (rand-int 1)) (dec x))
-    (seq choice)
-  ))
+  (let [conchoice (into [] choice)]
+    (if (> x 0)
+      (tweak-choice (assoc conchoice (rand-int (count conchoice)) (rand-int 1)) (dec x))
+      (seq choice)
+      )))
 
-(println (tweak-choice (:choices (random-answer knapPI_16_20_1000_1))  3))
-;(tweak-choice '(1 1 1 1 1)  3)
+;;  (defn tweak-choice
+;;    [choice x]
+;;    (let [conchoice (into [] choice)]
+;;      (if (> x 0)
+;;        (let [index (rand-int (count conchoice))]
+;;          (tweak-choice (assoc conchoice index (mod (+ 1 (nth conchoice index)) 2)) (dec x))
+;;          (seq choice)
+;;          ))))
+
+;(println (tweak-choice (:choices (random-answer knapPI_16_20_1000_1))  3))
+(tweak-choice '(1 1 1 1 1)  3)
+;(max-key {:score 10} {:score 12})
+
+(add-score (find-answer (tweak-choice (:choices (random-answer knapPI_11_20_1000_1)) 2) knapPI_11_20_1000_1)
+)
+
+(mod 7 2)
 
 (defn hill-climb
   [winner max-tries instance]
-  (if (> max-tries 0)
-      (hill-climb (max-key :total-value (:total-value winner) (:total-value (find-answer (tweak-choice (:choices winner) 3) instance))) (dec max-tries) instance)
-   ))
+  ; (println "winner")
+  (loop [num-tries 0
+         current-best winner]
+    (if (>= num-tries max-tries)
+      current-best
+      (let [tweaked-choices (tweak-choice (:choices current-best)  10)
+            new-answer (find-answer tweaked-choices instance)
+            scored-new-answer (add-score new-answer)]
+         (println scored-new-answer)
+        (recur (inc num-tries)
+               (max-key :score current-best scored-new-answer))))))
 
-(hill-climb (random-answer knapPI_16_20_1000_1) 100 knapPI_16_20_1000_1)
+(let [start (add-score (random-answer knapPI_16_20_1000_74))
+      hill-best (hill-climb start 200 knapPI_16_20_1000_74)]
+  (println start)
+  hill-best
+)
+
+(random-search knapPI_16_20_1000_56 2000)
 
 
