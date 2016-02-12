@@ -76,18 +76,30 @@
       (seq choice)
       )))
 
+
 (defn hill-climb
-  [winner max-tries instance]
+  [winner max-tries max-tries-perhill instance]
   (loop [num-tries 0
-         current-best winner]
+         current-best winner
+         previous-hill winner]
     (if (>= num-tries max-tries)
-      current-best
-      (let [tweaked-choices (tweak-choice (:choices current-best)  10)
-            new-answer (find-answer tweaked-choices instance)
-            scored-new-answer (add-score new-answer)]
-        (recur (inc num-tries)
-               (max-key :score current-best scored-new-answer))))))
+      (max-key :score current-best previous-hill)
+      (if(=(mod num-tries max-tries-perhill) 0)
+
+        (let [tweaked-choices (tweak-choice (:choices current-best)  10)
+              new-answer (find-answer tweaked-choices instance)
+              scored-new-answer (add-score new-answer)]
+          (recur (inc num-tries)
+                 (add-score (random-answer instance))
+                 (max-key :score current-best previous-hill)))
+
+        (let [tweaked-choices (tweak-choice (:choices current-best)  10)
+              new-answer (find-answer tweaked-choices instance)
+              scored-new-answer (add-score new-answer)]
+          (recur (inc num-tries)
+                 (max-key :score current-best scored-new-answer)
+                 previous-hill))
+        ))))
 
 
-(hill-climb (add-score (random-answer knapPI_11_20_1000_1)) 20000 knapPI_11_20_1000_1
-            )
+(hill-climb (add-score (random-answer knapPI_11_20_1000_29)) 20000 2000 knapPI_11_20_1000_29)
