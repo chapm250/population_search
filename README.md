@@ -1,7 +1,15 @@
 # simple-search
-#Done by Josh Chapman, Nate Perfetti, Snuffy Linder. 
+##Done by Josh Chapman, Nate Perfetti, Snuffy Linder. 
 
 A Clojure implementation of a some simple heuristic search tools for the Spring, 2016, Evolutionary Computation and Artificial Intelligence class. Students will clone this and add functionality as the semester progresses.
+
+##Project Tasks:
+
+-[ ]  purely mutational system
+-[ ]  system has uniform crossover
+-[ ]  system has 2-point crossover
+-[ ]  R markdown write-up
+
 
 ## How to run the tests
 
