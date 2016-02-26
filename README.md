@@ -1,4 +1,5 @@
 # simple-search
+#Done by Josh Chapman, Nate Perfetti, Snuffy Linder. 
 
 A Clojure implementation of a some simple heuristic search tools for the Spring, 2016, Evolutionary Computation and Artificial Intelligence class. Students will clone this and add functionality as the semester progresses.
 
