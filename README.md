@@ -5,10 +5,10 @@ A Clojure implementation of a some simple heuristic search tools for the Spring,
 
 ##Project Tasks:
 
--[ ]  purely mutational system
--[ ]  system has uniform crossover
--[ ]  system has 2-point crossover
--[ ]  R markdown write-up
+- [ ]  purely mutational system
+- [ ]  system has uniform crossover
+- [ ]  system has 2-point crossover
+- [ ]  R markdown write-up
 
 
 ## How to run the tests
