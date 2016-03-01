@@ -85,8 +85,54 @@
       (seq choice)
       )))
 
+(defn pick-one
+  [a b]
+  (if (= (rand-int 2) 0)
+    a
+    b))
 
+(defn create-start-population
+  [instance]
+  (repeatedly 10 #(add-score (random-answer instance)))
+  )
 
+(defn pick-folks
+  [population ]
+  (take-last 2 (sort-by :score population))
+  )
+
+(defn pick-winner
+  [population ]
+  (last (sort-by :score population))
+  )
+
+(defn crossover
+  [instance folks]
+   (let [choices  (map pick-one (:choices (first folks)) (:choices (last folks)))
+         included (included-items (:items instance) choices)]
+    {:instance instance
+     :choices choices
+     :total-weight (reduce + (map :weight included))
+     :total-value (reduce + (map :value included))})
+  )
+
+(defn new-generation
+  [num-children instance population]
+  (let [folks (pick-folks population)]
+    (print (:score (first folks)))
+    (concat folks (repeatedly num-children #(add-score (crossover instance folks))))))
+
+;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
+(defn uniform_crossover
+  [instance max-tries]
+  (let [population (create-start-population instance)]
+    (pick-winner (last (take max-tries (iterate (partial new-generation 18 instance) population))))))
+
+;(map pick-one (first population) (last population))
+
+(uniform_crossover knapPI_16_20_1000_1 100)
+;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
+;(crossover (create-folks knapPI_16_20_1000_1)
 
 ;(defn hill-climb
 ;  [winner max-tries max-tries-perhill instance]
@@ -112,8 +158,8 @@
   ;               previous-hill))
       ;  ))))
 
-(defn random-flip-check-iterate [instance max-tries mutate-answer currentBest]
-    (let [finalAnswer (assoc currentBest :choices (mutate-answer (:choices currentBest) (rand-int 4)))
+(defn random-flip-check-iterate [instance max-tries currentBest]
+    (let [finalAnswer (assoc currentBest :choices (tweak-choice (:choices currentBest) (rand-int 4)))
           finalFinalAnswer (assoc finalAnswer :total-weight (reduce + (map :weight (included-items (:items (:instance currentBest)) (:choices finalAnswer)))))
           finalFinalFinalAnswer (assoc finalFinalAnswer :total-value (reduce + (map :value (included-items (:items (:instance currentBest)) (:choices finalAnswer)))))]
 
@@ -124,10 +170,14 @@
     )
   )
 
-(defn hill-climber [mutate-answer make-answer instance max-tries]
-    (nth (take max-tries (iterate (partial random-flip-check-iterate instance max-tries mutate-answer) (make-answer instance))) (dec max-tries)))
 
 
-(hill-climber tweak-choice random-answer knapPI_16_20_1000_1 1000)
+
+
+(defn hill-climber [make-answer instance max-tries]
+    (nth (take max-tries (iterate (partial random-flip-check-iterate instance max-tries) (make-answer instance))) (dec max-tries)))
+
+
+(hill-climber random-answer knapPI_16_20_1000_1 1000)
 
 
