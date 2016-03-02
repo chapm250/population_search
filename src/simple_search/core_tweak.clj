@@ -101,12 +101,28 @@
   (take-last 2 (sort-by :score population))
   )
 
+(defn splice
+  [choices index1 index2]
+  (take-last index1 (take index2 choices)))
+
+(partitionpop '(0 1 2 3 4 5 6 7 8 9) 3 6)
+
+
+
 (defn pick-winner
   [population ]
   (last (sort-by :score population))
   )
 
-(defn crossover
+(defn pick-points
+  [choices]
+  (let [firstpoint (rand-int  (count choices))]
+  (cons firstpoint (cons (+ firstpoint (rand-int (- (count choices) firstpoint))) '()))
+))
+
+(pick-points '(0 1 2 3 4 5 6 7 8 9))
+
+(defn uniform_crossover
   [instance folks]
    (let [choices  (map pick-one (:choices (first folks)) (:choices (last folks)))
          included (included-items (:items instance) choices)]
@@ -116,21 +132,44 @@
      :total-value (reduce + (map :value included))})
   )
 
+(split-at 3 '(0 1 2 3 4 5 6 7 8 9))
+
+;take a first part of parent one, second part of parent two, and third part of parent one. children come from different parents
+(defn twopoint_crossover
+  [instance folks]
+   (let [points (pick-points (first folks))
+         choices  (concat (splice (:choices (first folks)) 0 (first points)) (splice (:choices (second folks)) (first points) (second points)) (splice (:choices (first folks)) (second points) (count (:choices (first folks)))))
+         included (included-items (:items instance) choices)]
+    {:instance instance
+     :choices choices
+     :total-weight (reduce + (map :weight included))
+     :total-value (reduce + (map :value included))})
+  )
+
+(pick-folks (create-start-population knapPI_16_20_1000_1))
+(first [0 0 0 0 0 0 0 0])
+
+(twopoint_crossover knapPI_16_20_1000_1 [[0 0 0 0 0 0] [1 1 1 1 1 1 ]])
+
 (defn new-generation
-  [num-children instance population]
+  [num-children crossovertype instance population]
   (let [folks (pick-folks population)]
     (print (:score (first folks)))
-    (concat folks (repeatedly num-children #(add-score (crossover instance folks))))))
+    (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
+
+
 
 ;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
-(defn uniform_crossover
-  [instance max-tries]
+(defn crossover
+  [instance max-tries crossovertype]
   (let [population (create-start-population instance)]
-    (pick-winner (last (take max-tries (iterate (partial new-generation 18 instance) population))))))
+    (pick-winner (last (take max-tries (iterate (partial new-generation 18 crossovertype instance) population))))))
+
+(crossover knapPI_16_20_1000_1 2 twopoint_crossover)
 
 ;(map pick-one (first population) (last population))
 
-(uniform_crossover knapPI_16_20_1000_1 100)
+(crossover knapPI_16_20_1000_1 100 uniform_crossover)
 ;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
 ;(crossover (create-folks knapPI_16_20_1000_1)
 
