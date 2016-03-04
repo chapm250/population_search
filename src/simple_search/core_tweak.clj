@@ -38,13 +38,6 @@
      :total-value (reduce + (map :value included))}))
 
 
-;;  (println (random-answer knapPI_16_20_1000_1))
-
-;;; It might be cool to write a function that
-;;; generates weighted proportions of 0's and 1's.
-
-
-
 (defn score
   "Takes the total-weight of the given answer unless it's over capacity,
    in which case we return over capacity * -1"
@@ -103,10 +96,7 @@
 
 (defn splice
   [choices index1 index2]
-  (take-last index1 (take index2 choices)))
-
-(partitionpop '(0 1 2 3 4 5 6 7 8 9) 3 6)
-
+  (drop index1 (drop-last (- (count choices) index2) choices)))
 
 
 (defn pick-winner
@@ -120,7 +110,6 @@
   (cons firstpoint (cons (+ firstpoint (rand-int (- (count choices) firstpoint))) '()))
 ))
 
-(pick-points '(0 1 2 3 4 5 6 7 8 9))
 
 (defn uniform_crossover
   [instance folks]
@@ -132,7 +121,6 @@
      :total-value (reduce + (map :value included))})
   )
 
-(split-at 3 '(0 1 2 3 4 5 6 7 8 9))
 
 ;take a first part of parent one, second part of parent two, and third part of parent one. children come from different parents
 (defn twopoint_crossover
@@ -146,15 +134,14 @@
      :total-value (reduce + (map :value included))})
   )
 
-(pick-folks (create-start-population knapPI_16_20_1000_1))
-(first [0 0 0 0 0 0 0 0])
 
-(twopoint_crossover knapPI_16_20_1000_1 [[0 0 0 0 0 0] [1 1 1 1 1 1 ]])
+;(twopoint_crossover knapPI_16_20_1000_1 '(0 1 0 1 0 1 0 1))
+
+
 
 (defn new-generation
   [num-children crossovertype instance population]
   (let [folks (pick-folks population)]
-    (print (:score (first folks)))
     (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
 
 
@@ -165,7 +152,7 @@
   (let [population (create-start-population instance)]
     (pick-winner (last (take max-tries (iterate (partial new-generation 18 crossovertype instance) population))))))
 
-(crossover knapPI_16_20_1000_1 2 twopoint_crossover)
+(crossover knapPI_16_20_1000_1 100 twopoint_crossover)
 
 ;(map pick-one (first population) (last population))
 
