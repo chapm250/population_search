@@ -62,6 +62,8 @@
 
 
 (defn find-answer
+   "Takes a choices vector and a problem instance, returns a reconstructed profile of
+    the contents, value and weight of the solution's knapsack."
   [choice instance]
   (let [choices choice
         included (included-items (:items instance) choices)]
@@ -79,22 +81,32 @@
       )))
 
 (defn pick-one
+  "Takes two possible outputs, randomly returns either"
   [a b]
   (if (= (rand-int 2) 0)
     a
     b))
 
 (defn create-start-population
+  "Takes a problem instance, "
   [instance]
-  (repeatedly 10 #(add-score (random-answer instance)))
+  (repeatedly 100 #(add-score (random-answer instance)))
   )
 
 (defn pick-folks
+   "Takes a population, returns two parents for the next generation based on score"
   [population ]
   (take-last 2 (sort-by :score population))
   )
 
+(defn random-pick-folks
+  [population]
+  (take-last 2 (sort-by :score (repeatedly 10 #(nth population (rand-int (count population)))))
+))
+
+
 (defn splice
+  "Takes a choices vector and 2 indices, returns the vector segemented by the given indices."
   [choices index1 index2]
   (drop index1 (drop-last (- (count choices) index2) choices)))
 
@@ -113,8 +125,10 @@
 
 (defn uniform_crossover
   [instance folks]
+"Takes a problem instance and parents, returns profile "
    (let [choices  (map pick-one (:choices (first folks)) (:choices (last folks)))
          included (included-items (:items instance) choices)]
+     (print choices)
     {:instance instance
      :choices choices
      :total-weight (reduce + (map :weight included))
@@ -135,24 +149,33 @@
   )
 
 
-;(twopoint_crossover knapPI_16_20_1000_1 '(0 1 0 1 0 1 0 1))
 
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; This sucks right now
+;; (defn new-generation
+;;   "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population."
+;;   [num-children crossovertype instance population]
+;;   ;(print (:score (last population)))
+;;   (let [folks (random-pick-folks population)]
+;;     (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
 
 (defn new-generation
+  "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population."
   [num-children crossovertype instance population]
-  (let [folks (pick-folks population)]
-    (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
-
+  (print (:score (last population)))
+  (let [folks (random-pick-folks population)]
+    (repeatedly num-children #(add-score (crossovertype instance (random-pick-folks population))))))
 
 
 ;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
 (defn crossover
+  "Takes a problem instance, max # of attempts, and a cross-over strategy,
+   returns the individual solution with the highest score"
   [instance max-tries crossovertype]
   (let [population (create-start-population instance)]
-    (pick-winner (last (take max-tries (iterate (partial new-generation 2 crossovertype instance) population))))))
+    (pick-winner (last (take max-tries (iterate (partial new-generation 100 crossovertype instance) population))))))
 
-(crossover knapPI_16_20_1000_1 2 twopoint_crossover)
+(crossover knapPI_16_20_1000_1 100 twopoint_crossover)
 
 ;(map pick-one (first population) (last population))
 
