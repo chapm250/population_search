@@ -150,9 +150,9 @@
 (defn crossover
   [instance max-tries crossovertype]
   (let [population (create-start-population instance)]
-    (pick-winner (last (take max-tries (iterate (partial new-generation 18 crossovertype instance) population))))))
+    (pick-winner (last (take max-tries (iterate (partial new-generation 2 crossovertype instance) population))))))
 
-(crossover knapPI_16_20_1000_1 100 twopoint_crossover)
+(crossover knapPI_16_20_1000_1 2 twopoint_crossover)
 
 ;(map pick-one (first population) (last population))
 
