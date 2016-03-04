@@ -40,9 +40,7 @@
 
 ;;  (println (random-answer knapPI_16_20_1000_1))
 
-;;; It might be cool to write a function that
-;;; generates weighted proportions of 0's and 1's.
-
+;=================Josh, Snuffy & Nate's Work Starts Here============================================
 
 
 (defn score
@@ -69,6 +67,8 @@
 
 
 (defn find-answer
+  "Takes a choices vector and a problem instance, returns a reconstructed profile of 
+    the contents, value and weight of the solution's knapsack."
   [choice instance]
   (let [choices choice
         included (included-items (:items instance) choices)]
@@ -78,6 +78,7 @@
      :total-value (reduce + (map :value included))}))
 
 (defn tweak-choice
+  ""
   [choice x]
   (let [conchoice (into [] choice)]
     (if (> x 0)
@@ -86,35 +87,40 @@
       )))
 
 (defn pick-one
+  "Takes two possible outputs, randomly returns either"
   [a b]
   (if (= (rand-int 2) 0)
     a
     b))
 
 (defn create-start-population
+  "Takes a problem instance, "
   [instance]
   (repeatedly 10 #(add-score (random-answer instance)))
   )
 
 (defn pick-folks
+  "Takes a population, returns two parents for the next generation based on score"
   [population ]
   (take-last 2 (sort-by :score population))
   )
 
 (defn splice
+  "Takes a choices vector and 2 indices, returns the vector segemented by the given indices."
   [choices index1 index2]
   (take-last index1 (take index2 choices)))
 
 (partitionpop '(0 1 2 3 4 5 6 7 8 9) 3 6)
 
 
-
 (defn pick-winner
+  "Takes a population, returns the individual solution with the highest score"
   [population ]
   (last (sort-by :score population))
   )
 
 (defn pick-points
+  "Takes a choices vec, "
   [choices]
   (let [firstpoint (rand-int  (count choices))]
   (cons firstpoint (cons (+ firstpoint (rand-int (- (count choices) firstpoint))) '()))
@@ -123,6 +129,7 @@
 (pick-points '(0 1 2 3 4 5 6 7 8 9))
 
 (defn uniform_crossover
+  "Takes a problem instance and parents, returns profile "
   [instance folks]
    (let [choices  (map pick-one (:choices (first folks)) (:choices (last folks)))
          included (included-items (:items instance) choices)]
@@ -134,8 +141,9 @@
 
 (split-at 3 '(0 1 2 3 4 5 6 7 8 9))
 
-;take a first part of parent one, second part of parent two, and third part of parent one. children come from different parents
 (defn twopoint_crossover
+  "Take 1st part from 1st parent, 2nd part from 2nd parent, & 3rd part from 1st parent. 
+    Children come from different parents"
   [instance folks]
    (let [points (pick-points (first folks))
          choices  (concat (splice (:choices (first folks)) 0 (first points)) (splice (:choices (second folks)) (first points) (second points)) (splice (:choices (first folks)) (second points) (count (:choices (first folks)))))
@@ -152,15 +160,18 @@
 (twopoint_crossover knapPI_16_20_1000_1 [[0 0 0 0 0 0] [1 1 1 1 1 1 ]])
 
 (defn new-generation
+  "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population,
+    prints the score of the first parent"
   [num-children crossovertype instance population]
   (let [folks (pick-folks population)]
     (print (:score (first folks)))
     (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
 
-
-
 ;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
+
 (defn crossover
+  "Takes a problem instance, max # of attempts, and a cross-over strategy, 
+    returns the individual solution with the highest score"
   [instance max-tries crossovertype]
   (let [population (create-start-population instance)]
     (pick-winner (last (take max-tries (iterate (partial new-generation 18 crossovertype instance) population))))))
