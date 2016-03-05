@@ -38,6 +38,18 @@
      :total-value (reduce + (map :value included))}))
 
 
+(defn zeroed-answer
+  "Construct a random answer for the given instance of the
+  knapsack problem."
+  [instance]
+  (let [choices (repeatedly (count (:items instance)) #(rand-int 1))
+        included (included-items (:items instance) choices)]
+    {:instance instance
+     :choices choices
+     :total-weight (reduce + (map :weight included))
+     :total-value (reduce + (map :value included))}))
+
+
 (defn score
   "Takes the total-weight of the given answer unless it's over capacity,
    in which case we return over capacity * -1"
@@ -58,7 +70,7 @@
   [instance max-tries]
   (apply max-key :score
          (map add-score
-              (repeatedly max-tries #(random-answer instance)))))
+              (repeatedly (* max-tries 100) #(random-answer instance)))))
 
 
 (defn find-answer
@@ -90,7 +102,7 @@
 (defn create-start-population
   "Takes a problem instance, "
   [instance]
-  (repeatedly 100 #(add-score (random-answer instance)))
+  (repeatedly 100 #(add-score (zeroed-answer instance)))
   )
 
 (defn pick-folks
@@ -99,11 +111,17 @@
   (take-last 2 (sort-by :score population))
   )
 
-(defn random-pick-folks
+(defn tournament-select
   [population]
-  ;(take-last 2 (sort-by :score (repeatedly 5 #(nth population (rand-int (count population)))))
-  (repeatedly 2 #(nth (take-last 25 (sort-by :score population)) (rand-int 25))
+  (take-last 2 (sort-by :score (repeatedly 10 #(nth population (rand-int (count population)))))
 ))
+
+
+(defn best-half
+  [population]
+ (repeatedly 2 #(nth (take-last 50 (sort-by :score population)) (rand-int 50)
+)))
+
 
 
 (defn splice
@@ -113,7 +131,7 @@
 
 
 (defn pick-winner
-  [population ]
+  [population]
   (last (sort-by :score population))
   )
 
@@ -131,7 +149,7 @@
          included (included-items (:items instance) choices)]
      ;(print choices)
     {:instance instance
-     :choices choices
+     :choices (tweak-choice choices (rand-int 6))
      :total-weight (reduce + (map :weight included))
      :total-value (reduce + (map :value included))})
   )
@@ -144,42 +162,44 @@
          ;choices  (map pick-one (:choices (first folks)) (:choices (last folks)))
          choices (concat (splice (:choices (first folks)) 0 (first points)) (splice (:choices (second folks)) (first points) (second points)) (splice (:choices (first folks)) (second points) (count (:choices (first folks)))))
          included (included-items (:items instance) choices)]
-     ;(print (:score (first folks)))
+     ;(print points)
     {:instance instance
-     :choices choices
+     :choices (tweak-choice choices (rand-int 4))
      :total-weight (reduce + (map :weight included))
      :total-value (reduce + (map :value included))})
   )
 
 
-
+;(twopoint_crossover knapPI_13_20_1000_4 '(0 0 0 0 0 0 0 0 0 0) '(1 1 1 1 1 1 1 1 1 1))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; This sucks right now because of lack of parenthood
- (defn new-generation-monogomy
-   "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population."
-   [num-children crossovertype instance population]
-   ;(print (:score (last population)))
-   (let [folks (pick-folks population)]
-     (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Tried regular pick-folks first was not working well
+;;  (defn new-generation-monogomy
+;;    "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population."
+;;    [num-children crossovertype instance population]
+;;  ; (println (:score (last (sort-by :score population))))
+;;    (let [folks (random-pick-folks population)]
+;;      (concat folks (repeatedly num-children #(add-score (crossovertype instance folks))))))
 
 (defn new-generation
   "Takes a number of offspring to generate, a cross-over strategy, a problem instance and a population."
-  [num-children crossovertype instance population]
-; (println (:score (last population)))
-  (let [folks (random-pick-folks population)]
-    (repeatedly num-children #(add-score (crossovertype instance (random-pick-folks population))))))
+  [num-children crossovertype selection-type instance population]
+ ;(println (:score (last (sort-by :score population))))
+  (let [folks (pick-folks population)]
+    (concat folks (repeatedly num-children #(add-score (crossovertype instance (selection-type population)))))))
 
 
 ;(count (new-generation (create-start-population knapPI_16_20_1000_1) 8 knapPI_16_20_1000_1))
 (defn crossover
   "Takes a problem instance, max # of attempts, and a cross-over strategy,
    returns the individual solution with the highest score"
-  [crossovertype gensyle instance max-tries]
+  [crossovertype selection-type instance max-tries]
   (let [population (create-start-population instance)]
-    (pick-winner (last (take max-tries (iterate (partial gensyle 100 crossovertype instance) population))))))
+    (pick-winner (last (take max-tries (iterate (partial new-generation 100 crossovertype selection-type instance) population))))))
 
-;; (crossover knapPI_16_20_1000_1 1000 twopoint_crossover)
+ ;(crossover twopoint_crossover tournament-select knapPI_13_200_1000_4 100)
 ;; (random-search knapPI_16_20_1000_1 100000)
+;(crossover uniform_crossover best-half knapPI_16_1000_1000_3 1000)
 
 ;; ;(map pick-one (first population) (last population))
 
@@ -211,11 +231,10 @@
   ;               previous-hill))
       ;  ))))
 
-(defn random-flip-check-iterate [instance max-tries currentBest]
+(defn random-flip-check-iterate [instance currentBest]
     (let [finalAnswer (assoc currentBest :choices (tweak-choice (:choices currentBest) (rand-int 4)))
           finalFinalAnswer (assoc finalAnswer :total-weight (reduce + (map :weight (included-items (:items (:instance currentBest)) (:choices finalAnswer)))))
           finalFinalFinalAnswer (assoc finalFinalAnswer :total-value (reduce + (map :value (included-items (:items (:instance currentBest)) (:choices finalAnswer)))))]
-
     (if (> (:score (add-score finalFinalFinalAnswer)) (:score (add-score currentBest)))
       (add-score finalFinalFinalAnswer)
       (add-score currentBest)
@@ -229,8 +248,8 @@
 ;;     (nth (take max-tries (iterate (partial random-flip-check-iterate instance max-tries) (make-answer instance))) (dec max-tries)))
 
 (defn hill-climber [make-answer instance max-tries]
-    (last (take max-tries (iterate (partial random-flip-check-iterate instance max-tries) (make-answer instance)))))
+    (last (take (* 100 max-tries) (iterate (partial random-flip-check-iterate instance) (make-answer instance)))))
 
-;(hill-climber random-answer knapPI_16_20_1000_1 1000)
+;(hill-climber random-answer knapPI_16_200_1000_1 1000)
 
 

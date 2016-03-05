@@ -57,17 +57,17 @@
   (ns simple-search.experiment)
   (print-experimental-results
    (run-experiment [(with-meta
-                      (partial core/crossover core/twopoint_crossover core/new-generation-monogomy)
-                      {:label "twopoint_crossover with 2 parents"})
+                     (partial core/crossover core/twopoint_crossover core/tournament-select)
+                     {:label "twopoint_crossover with tournament-selection"})
                     (with-meta
-                      (partial core/crossover core/twopoint_crossover core/new-generation)
-                      {:label "twopoint_crossover with 2 < parents"})
+                      (partial core/crossover core/twopoint_crossover core/best-half)
+                      {:label "twopoint_crossover with best-half selection"})
                     (with-meta
-                      (partial core/crossover core/uniform_crossover core/new-generation-monogomy)
-                      {:label "uniform_crossover-monogomy"})
+                      (partial core/crossover core/uniform_crossover core/tournament-select)
+                      {:label "uniform_crossover with tournament-selection"})
                     (with-meta
-                      (partial core/crossover core/uniform_crossover core/new-generation)
-                      {:label "uniform_crossover with 2 < parents"})
+                      (partial core/crossover core/uniform_crossover core/best-half)
+                      {:label "uniform_crossover with best-half selection"})
                     (with-meta (partial core/hill-climber core/random-answer)
                       {:label "vanilla hill-climber"})
                     (with-meta
