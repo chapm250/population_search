@@ -20,3 +20,9 @@ We sorted the population by best scores, and then took the top half of the popul
 
 Then we decicded that when we make a new population, we need to use more than just the same 2 parents, otherwise we get too much convergence.   So then we redesigned our method of making a new population, we would use one of the above methods of finding random parents, but then we would just make 1 child, then use the random parent selecter again to make another chil. Then we continued this until we had an enteriely new population of the same size.
 After all this, our population still converged very quickly.
+
+Since our population still converged very quickly, we decided to modify our parent selcting method, to just be completely random,  (we knew this one not climb well, but we just wanted to see if we could stop the population from converging)  after implementing completely random parent selcting, we realized our population would go much farther before converging but it would still converge.
+
+
+
+Finally, after Friday in class, we realized where we were really going wrong was because we had no mutation implemented, we just had pure crossover.
