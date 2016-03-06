@@ -26,3 +26,15 @@ Since our population still converged very quickly, we decided to modify our pare
 
 
 Finally, after Friday in class, we realized where we were really going wrong was because we had no mutation implemented, we just had pure crossover.
+
+
+So we implmented the same mutation we used in hill climber which would randomly flip 0-3 bits. 
+we implemented the mutation into the crossover methods. so the parents would crossover to make a child, then the child would be mutated before being added into the new population.
+
+Finally, we got our population to stop converging, however it was not climbing super well, some new populations would be worse than the older populations.
+
+We struggled with this for awhile, then fixed it, when we made a change where we kept the top 2 parents from a previous generation to the next generation. So it would almost be a completely new generation, but would also have 2 veterans.
+
+Then, we finally started getting good results, from both uniform-crossover and two-point crossover.
+
+We ran data with our 2 crossover methods and then also our 2 methods of selecting parents: tournament select, and taking the best half.  We also included data from random-search, and our hill-climber from last lab.
