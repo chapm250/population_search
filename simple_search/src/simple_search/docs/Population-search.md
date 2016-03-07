@@ -37,4 +37,6 @@ We struggled with this for awhile, then fixed it, when we made a change where we
 
 Then, we finally started getting good results, from both uniform-crossover and two-point crossover.
 
+One final thing we did that improved our data, was changing the starting population to be children of all zero bits. Before our start population was all random bits.
+
 We ran data with our 2 crossover methods and then also our 2 methods of selecting parents: tournament select, and taking the best half.  We also included data from random-search, and our hill-climber from last lab.
