@@ -1,841 +1,841 @@
 Search_method Problem Max_evals Run Score
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 0 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 1 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 2 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 3 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 4 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 5 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 6 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 7 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 8 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 9 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 10 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 11 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 12 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 13 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 14 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 15 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 16 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 17 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 18 1440N
-twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 19 1440N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 0 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 1 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 2 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 3 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 4 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 5 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 6 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 7 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 8 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 9 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 10 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 11 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 12 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 13 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 14 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 15 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 16 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 17 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 18 907N
-twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 19 907N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 0 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 1 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 2 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 3 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 4 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 5 2864N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 6 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 7 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 8 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 9 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 10 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 11 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 12 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 13 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 14 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 15 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 16 2702N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 17 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 18 2893N
-twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 19 2893N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 0 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 1 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 2 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 3 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 4 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 5 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 6 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 7 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 8 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 9 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 10 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 11 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 12 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 13 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 14 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 15 5040N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 16 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 17 5140N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 18 5180N
-twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 19 5180N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 0 3637N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 1 3603N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 2 3645N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 3 3611N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 4 3645N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 5 3637N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 6 3637N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 7 3680N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 8 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 9 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 10 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 11 3611N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 12 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 13 3611N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 14 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 15 3637N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 16 3680N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 17 3663N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 18 3620N
-twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 19 3654N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 0 13336N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 1 12044N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 2 13526N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 3 13879N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 4 12496N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 5 12643N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 6 12575N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 7 13032N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 8 13729N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 9 13496N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 10 12144N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 11 12991N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 12 12989N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 13 13958N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 14 13122N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 15 13505N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 16 13353N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 17 11184N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 18 13156N
-twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 19 12065N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 0 39372N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 1 37619N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 2 37023N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 3 33615N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 4 37426N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 5 35837N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 6 37169N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 7 37803N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 8 36045N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 9 35569N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 10 34396N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 11 33098N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 12 36628N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 13 37923N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 14 34648N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 15 37478N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 16 37445N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 17 38835N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 18 37670N
-twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 19 36244N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 0 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 1 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 2 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 3 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 4 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 5 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 6 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 7 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 8 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 9 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 10 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 11 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 12 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 13 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 14 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 15 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 16 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 17 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 18 1440N
-twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 19 1440N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 0 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 1 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 2 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 3 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 4 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 5 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 6 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 7 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 8 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 9 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 10 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 11 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 12 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 13 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 14 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 15 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 16 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 17 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 18 907N
-twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 19 907N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 0 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 1 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 2 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 3 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 4 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 5 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 6 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 7 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 8 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 9 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 10 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 11 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 12 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 13 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 14 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 15 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 16 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 17 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 18 2893N
-twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 19 2893N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 0 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 1 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 2 5140N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 3 5140N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 4 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 5 5140N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 6 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 7 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 8 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 9 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 10 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 11 5060N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 12 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 13 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 14 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 15 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 16 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 17 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 18 5180N
-twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 19 5180N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 0 3680N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 1 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 2 3680N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 3 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 4 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 5 3680N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 6 3680N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 7 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 8 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 9 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 10 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 11 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 12 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 13 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 14 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 15 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 16 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 17 3663N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 18 3680N
-twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 19 3663N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 0 14800N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 1 14195N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 2 14468N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 3 14460N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 4 14015N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 5 14165N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 6 14748N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 7 15011N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 8 15186N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 9 15270N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 10 15167N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 11 14713N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 12 14916N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 13 15095N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 14 14831N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 15 15252N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 16 14230N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 17 14152N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 18 14891N
-twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 19 14947N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 0 46755N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 1 48561N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 2 50322N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 3 49264N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 4 48319N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 5 48657N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 6 49017N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 7 49130N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 8 50610N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 9 48752N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 10 48731N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 11 48328N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 12 50055N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 13 46856N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 14 49285N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 15 47634N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 16 51321N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 17 49461N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 18 49460N
-twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 19 48482N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 0 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 1 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 2 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 3 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 4 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 5 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 6 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 7 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 8 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 9 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 10 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 11 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 12 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 13 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 14 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 15 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 16 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 17 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 18 1440N
-uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 19 1440N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 0 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 1 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 2 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 3 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 4 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 5 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 6 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 7 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 8 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 9 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 10 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 11 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 12 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 13 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 14 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 15 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 16 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 17 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 18 907N
-uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 19 907N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 0 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 1 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 2 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 3 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 4 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 5 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 6 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 7 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 8 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 9 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 10 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 11 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 12 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 13 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 14 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 15 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 16 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 17 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 18 2893N
-uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 19 2893N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 0 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 1 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 2 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 3 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 4 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 5 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 6 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 7 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 8 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 9 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 10 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 11 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 12 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 13 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 14 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 15 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 16 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 17 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 18 5180N
-uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 19 5180N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 0 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 1 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 2 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 3 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 4 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 5 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 6 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 7 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 8 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 9 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 10 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 11 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 12 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 13 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 14 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 15 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 16 3663N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 17 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 18 3680N
-uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 19 3680N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 0 15215N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 1 15533N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 2 15589N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 3 14954N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 4 15837N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 5 15254N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 6 15245N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 7 15535N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 8 15550N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 9 15831N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 10 15582N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 11 15197N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 12 15840N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 13 15320N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 14 15581N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 15 15844N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 16 15511N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 17 14908N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 18 15562N
-uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 19 15851N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 0 58480N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 1 58664N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 2 57387N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 3 61030N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 4 60490N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 5 60575N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 6 60285N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 7 60601N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 8 59335N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 9 58304N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 10 58792N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 11 58547N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 12 60072N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 13 60049N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 14 57539N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 15 57997N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 16 59293N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 17 57831N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 18 58001N
-uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 19 58317N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 0 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 1 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 2 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 3 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 4 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 5 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 6 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 7 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 8 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 9 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 10 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 11 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 12 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 13 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 14 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 15 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 16 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 17 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 18 1440N
-uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 19 1440N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 0 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 1 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 2 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 3 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 4 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 5 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 6 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 7 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 8 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 9 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 10 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 11 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 12 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 13 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 14 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 15 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 16 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 17 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 18 907N
-uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 19 907N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 0 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 1 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 2 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 3 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 4 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 5 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 6 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 7 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 8 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 9 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 10 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 11 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 12 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 13 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 14 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 15 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 16 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 17 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 18 2893N
-uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 19 2893N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 0 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 1 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 2 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 3 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 4 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 5 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 6 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 7 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 8 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 9 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 10 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 11 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 12 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 13 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 14 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 15 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 16 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 17 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 18 5180N
-uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 19 5180N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 0 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 1 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 2 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 3 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 4 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 5 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 6 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 7 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 8 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 9 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 10 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 11 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 12 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 13 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 14 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 15 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 16 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 17 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 18 3680N
-uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 19 3680N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 0 15450N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 1 15497N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 2 15353N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 3 15081N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 4 15265N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 5 14970N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 6 15422N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 7 14761N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 8 15395N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 9 15142N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 10 15112N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 11 15038N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 12 15124N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 13 14929N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 14 15425N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 15 15124N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 16 15497N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 17 15127N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 18 15260N
-uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 19 15011N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 0 59769N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 1 58654N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 2 56983N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 3 59052N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 4 60092N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 5 57632N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 6 58623N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 7 58693N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 8 59207N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 9 58598N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 10 59364N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 11 58121N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 12 57136N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 13 58631N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 14 59805N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 15 59153N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 16 58532N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 17 59206N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 18 57541N
-uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 19 57949N
-vanilla hill-climber knapPI_11_20_1000_4 1000 0 1440N
-vanilla hill-climber knapPI_11_20_1000_4 1000 1 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 2 1320N
-vanilla hill-climber knapPI_11_20_1000_4 1000 3 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 4 1320N
-vanilla hill-climber knapPI_11_20_1000_4 1000 5 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 6 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 7 1440N
-vanilla hill-climber knapPI_11_20_1000_4 1000 8 1320N
-vanilla hill-climber knapPI_11_20_1000_4 1000 9 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 10 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 11 1440N
-vanilla hill-climber knapPI_11_20_1000_4 1000 12 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 13 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 14 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 15 1440N
-vanilla hill-climber knapPI_11_20_1000_4 1000 16 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 17 1320N
-vanilla hill-climber knapPI_11_20_1000_4 1000 18 1400N
-vanilla hill-climber knapPI_11_20_1000_4 1000 19 1320N
-vanilla hill-climber knapPI_13_20_1000_4 1000 0 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 1 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 2 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 3 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 4 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 5 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 6 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 7 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 8 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 9 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 10 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 11 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 12 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 13 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 14 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 15 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 16 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 17 889N
-vanilla hill-climber knapPI_13_20_1000_4 1000 18 907N
-vanilla hill-climber knapPI_13_20_1000_4 1000 19 889N
-vanilla hill-climber knapPI_16_20_1000_4 1000 0 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 1 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 2 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 3 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 4 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 5 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 6 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 7 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 8 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 9 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 10 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 11 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 12 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 13 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 14 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 15 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 16 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 17 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 18 2893N
-vanilla hill-climber knapPI_16_20_1000_4 1000 19 2893N
-vanilla hill-climber knapPI_11_200_1000_4 1000 0 5140N
-vanilla hill-climber knapPI_11_200_1000_4 1000 1 5060N
-vanilla hill-climber knapPI_11_200_1000_4 1000 2 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 3 5180N
-vanilla hill-climber knapPI_11_200_1000_4 1000 4 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 5 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 6 5020N
-vanilla hill-climber knapPI_11_200_1000_4 1000 7 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 8 5020N
-vanilla hill-climber knapPI_11_200_1000_4 1000 9 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 10 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 11 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 12 5140N
-vanilla hill-climber knapPI_11_200_1000_4 1000 13 5140N
-vanilla hill-climber knapPI_11_200_1000_4 1000 14 5060N
-vanilla hill-climber knapPI_11_200_1000_4 1000 15 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 16 4980N
-vanilla hill-climber knapPI_11_200_1000_4 1000 17 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 18 5100N
-vanilla hill-climber knapPI_11_200_1000_4 1000 19 5100N
-vanilla hill-climber knapPI_13_200_1000_4 1000 0 3603N
-vanilla hill-climber knapPI_13_200_1000_4 1000 1 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 2 3620N
-vanilla hill-climber knapPI_13_200_1000_4 1000 3 3603N
-vanilla hill-climber knapPI_13_200_1000_4 1000 4 3620N
-vanilla hill-climber knapPI_13_200_1000_4 1000 5 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 6 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 7 3620N
-vanilla hill-climber knapPI_13_200_1000_4 1000 8 3663N
-vanilla hill-climber knapPI_13_200_1000_4 1000 9 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 10 3603N
-vanilla hill-climber knapPI_13_200_1000_4 1000 11 3620N
-vanilla hill-climber knapPI_13_200_1000_4 1000 12 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 13 3663N
-vanilla hill-climber knapPI_13_200_1000_4 1000 14 3663N
-vanilla hill-climber knapPI_13_200_1000_4 1000 15 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 16 3654N
-vanilla hill-climber knapPI_13_200_1000_4 1000 17 3637N
-vanilla hill-climber knapPI_13_200_1000_4 1000 18 3663N
-vanilla hill-climber knapPI_13_200_1000_4 1000 19 3637N
-vanilla hill-climber knapPI_16_200_1000_4 1000 0 13834N
-vanilla hill-climber knapPI_16_200_1000_4 1000 1 13412N
-vanilla hill-climber knapPI_16_200_1000_4 1000 2 13261N
-vanilla hill-climber knapPI_16_200_1000_4 1000 3 14336N
-vanilla hill-climber knapPI_16_200_1000_4 1000 4 12995N
-vanilla hill-climber knapPI_16_200_1000_4 1000 5 13460N
-vanilla hill-climber knapPI_16_200_1000_4 1000 6 13231N
-vanilla hill-climber knapPI_16_200_1000_4 1000 7 12448N
-vanilla hill-climber knapPI_16_200_1000_4 1000 8 13930N
-vanilla hill-climber knapPI_16_200_1000_4 1000 9 14355N
-vanilla hill-climber knapPI_16_200_1000_4 1000 10 13012N
-vanilla hill-climber knapPI_16_200_1000_4 1000 11 14706N
-vanilla hill-climber knapPI_16_200_1000_4 1000 12 14068N
-vanilla hill-climber knapPI_16_200_1000_4 1000 13 14226N
-vanilla hill-climber knapPI_16_200_1000_4 1000 14 11948N
-vanilla hill-climber knapPI_16_200_1000_4 1000 15 13482N
-vanilla hill-climber knapPI_16_200_1000_4 1000 16 12785N
-vanilla hill-climber knapPI_16_200_1000_4 1000 17 13812N
-vanilla hill-climber knapPI_16_200_1000_4 1000 18 13638N
-vanilla hill-climber knapPI_16_200_1000_4 1000 19 13699N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 0 43034N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 1 43981N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 2 40623N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 3 39935N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 4 38924N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 5 43069N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 6 44955N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 7 41850N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 8 40718N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 9 45407N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 10 44717N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 11 40104N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 12 40467N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 13 38915N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 14 41480N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 15 42467N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 16 45174N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 17 41992N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 18 44336N
-vanilla hill-climber knapPI_16_1000_1000_3 1000 19 40793N
-random-search knapPI_11_20_1000_4 1000 0 1400N
-random-search knapPI_11_20_1000_4 1000 1 1440N
-random-search knapPI_11_20_1000_4 1000 2 1400N
-random-search knapPI_11_20_1000_4 1000 3 1400N
-random-search knapPI_11_20_1000_4 1000 4 1440N
-random-search knapPI_11_20_1000_4 1000 5 1400N
-random-search knapPI_11_20_1000_4 1000 6 1440N
-random-search knapPI_11_20_1000_4 1000 7 1400N
-random-search knapPI_11_20_1000_4 1000 8 1400N
-random-search knapPI_11_20_1000_4 1000 9 1400N
-random-search knapPI_11_20_1000_4 1000 10 1400N
-random-search knapPI_11_20_1000_4 1000 11 1400N
-random-search knapPI_11_20_1000_4 1000 12 1400N
-random-search knapPI_11_20_1000_4 1000 13 1400N
-random-search knapPI_11_20_1000_4 1000 14 1400N
-random-search knapPI_11_20_1000_4 1000 15 1400N
-random-search knapPI_11_20_1000_4 1000 16 1400N
-random-search knapPI_11_20_1000_4 1000 17 1400N
-random-search knapPI_11_20_1000_4 1000 18 1400N
-random-search knapPI_11_20_1000_4 1000 19 1400N
-random-search knapPI_13_20_1000_4 1000 0 889N
-random-search knapPI_13_20_1000_4 1000 1 907N
-random-search knapPI_13_20_1000_4 1000 2 907N
-random-search knapPI_13_20_1000_4 1000 3 907N
-random-search knapPI_13_20_1000_4 1000 4 890N
-random-search knapPI_13_20_1000_4 1000 5 907N
-random-search knapPI_13_20_1000_4 1000 6 907N
-random-search knapPI_13_20_1000_4 1000 7 907N
-random-search knapPI_13_20_1000_4 1000 8 907N
-random-search knapPI_13_20_1000_4 1000 9 907N
-random-search knapPI_13_20_1000_4 1000 10 907N
-random-search knapPI_13_20_1000_4 1000 11 907N
-random-search knapPI_13_20_1000_4 1000 12 907N
-random-search knapPI_13_20_1000_4 1000 13 907N
-random-search knapPI_13_20_1000_4 1000 14 907N
-random-search knapPI_13_20_1000_4 1000 15 907N
-random-search knapPI_13_20_1000_4 1000 16 889N
-random-search knapPI_13_20_1000_4 1000 17 907N
-random-search knapPI_13_20_1000_4 1000 18 907N
-random-search knapPI_13_20_1000_4 1000 19 907N
-random-search knapPI_16_20_1000_4 1000 0 2702N
-random-search knapPI_16_20_1000_4 1000 1 2886N
-random-search knapPI_16_20_1000_4 1000 2 2893N
-random-search knapPI_16_20_1000_4 1000 3 2675N
-random-search knapPI_16_20_1000_4 1000 4 2549N
-random-search knapPI_16_20_1000_4 1000 5 2893N
-random-search knapPI_16_20_1000_4 1000 6 2864N
-random-search knapPI_16_20_1000_4 1000 7 2664N
-random-search knapPI_16_20_1000_4 1000 8 2597N
-random-search knapPI_16_20_1000_4 1000 9 2675N
-random-search knapPI_16_20_1000_4 1000 10 2550N
-random-search knapPI_16_20_1000_4 1000 11 2893N
-random-search knapPI_16_20_1000_4 1000 12 2675N
-random-search knapPI_16_20_1000_4 1000 13 2593N
-random-search knapPI_16_20_1000_4 1000 14 2489N
-random-search knapPI_16_20_1000_4 1000 15 2864N
-random-search knapPI_16_20_1000_4 1000 16 2724N
-random-search knapPI_16_20_1000_4 1000 17 2702N
-random-search knapPI_16_20_1000_4 1000 18 2575N
-random-search knapPI_16_20_1000_4 1000 19 2542N
-random-search knapPI_11_200_1000_4 1000 0 -31968N
-random-search knapPI_11_200_1000_4 1000 1 -31680N
-random-search knapPI_11_200_1000_4 1000 2 -29399N
-random-search knapPI_11_200_1000_4 1000 3 -33116N
-random-search knapPI_11_200_1000_4 1000 4 -31746N
-random-search knapPI_11_200_1000_4 1000 5 -33012N
-random-search knapPI_11_200_1000_4 1000 6 -32440N
-random-search knapPI_11_200_1000_4 1000 7 -32571N
-random-search knapPI_11_200_1000_4 1000 8 -33027N
-random-search knapPI_11_200_1000_4 1000 9 -30429N
-random-search knapPI_11_200_1000_4 1000 10 -32803N
-random-search knapPI_11_200_1000_4 1000 11 -32300N
-random-search knapPI_11_200_1000_4 1000 12 -32312N
-random-search knapPI_11_200_1000_4 1000 13 -31815N
-random-search knapPI_11_200_1000_4 1000 14 -33508N
-random-search knapPI_11_200_1000_4 1000 15 -32398N
-random-search knapPI_11_200_1000_4 1000 16 -30908N
-random-search knapPI_11_200_1000_4 1000 17 -31754N
-random-search knapPI_11_200_1000_4 1000 18 -31193N
-random-search knapPI_11_200_1000_4 1000 19 -33651N
-random-search knapPI_13_200_1000_4 1000 0 -17150N
-random-search knapPI_13_200_1000_4 1000 1 -19103N
-random-search knapPI_13_200_1000_4 1000 2 -19385N
-random-search knapPI_13_200_1000_4 1000 3 -20213N
-random-search knapPI_13_200_1000_4 1000 4 -20210N
-random-search knapPI_13_200_1000_4 1000 5 -18350N
-random-search knapPI_13_200_1000_4 1000 6 -20708N
-random-search knapPI_13_200_1000_4 1000 7 -19961N
-random-search knapPI_13_200_1000_4 1000 8 -20672N
-random-search knapPI_13_200_1000_4 1000 9 -20495N
-random-search knapPI_13_200_1000_4 1000 10 -19958N
-random-search knapPI_13_200_1000_4 1000 11 -19853N
-random-search knapPI_13_200_1000_4 1000 12 -20438N
-random-search knapPI_13_200_1000_4 1000 13 -18278N
-random-search knapPI_13_200_1000_4 1000 14 -20177N
-random-search knapPI_13_200_1000_4 1000 15 -18719N
-random-search knapPI_13_200_1000_4 1000 16 -20639N
-random-search knapPI_13_200_1000_4 1000 17 -19127N
-random-search knapPI_13_200_1000_4 1000 18 -20468N
-random-search knapPI_13_200_1000_4 1000 19 -20078N
-random-search knapPI_16_200_1000_4 1000 0 -31519N
-random-search knapPI_16_200_1000_4 1000 1 -31148N
-random-search knapPI_16_200_1000_4 1000 2 -30899N
-random-search knapPI_16_200_1000_4 1000 3 -29615N
-random-search knapPI_16_200_1000_4 1000 4 -29823N
-random-search knapPI_16_200_1000_4 1000 5 -30586N
-random-search knapPI_16_200_1000_4 1000 6 -31387N
-random-search knapPI_16_200_1000_4 1000 7 -29979N
-random-search knapPI_16_200_1000_4 1000 8 -31310N
-random-search knapPI_16_200_1000_4 1000 9 -31387N
-random-search knapPI_16_200_1000_4 1000 10 -29337N
-random-search knapPI_16_200_1000_4 1000 11 -30965N
-random-search knapPI_16_200_1000_4 1000 12 -30159N
-random-search knapPI_16_200_1000_4 1000 13 -30440N
-random-search knapPI_16_200_1000_4 1000 14 -30795N
-random-search knapPI_16_200_1000_4 1000 15 -30630N
-random-search knapPI_16_200_1000_4 1000 16 -30212N
-random-search knapPI_16_200_1000_4 1000 17 -31011N
-random-search knapPI_16_200_1000_4 1000 18 -30227N
-random-search knapPI_16_200_1000_4 1000 19 -31540N
-random-search knapPI_16_1000_1000_3 1000 0 -194864N
-random-search knapPI_16_1000_1000_3 1000 1 -197042N
-random-search knapPI_16_1000_1000_3 1000 2 -194452N
-random-search knapPI_16_1000_1000_3 1000 3 -197038N
-random-search knapPI_16_1000_1000_3 1000 4 -193383N
-random-search knapPI_16_1000_1000_3 1000 5 -194396N
-random-search knapPI_16_1000_1000_3 1000 6 -196144N
-random-search knapPI_16_1000_1000_3 1000 7 -195305N
-random-search knapPI_16_1000_1000_3 1000 8 -195105N
-random-search knapPI_16_1000_1000_3 1000 9 -193931N
-random-search knapPI_16_1000_1000_3 1000 10 -197774N
-random-search knapPI_16_1000_1000_3 1000 11 -196312N
-random-search knapPI_16_1000_1000_3 1000 12 -197269N
-random-search knapPI_16_1000_1000_3 1000 13 -195080N
-random-search knapPI_16_1000_1000_3 1000 14 -191520N
-random-search knapPI_16_1000_1000_3 1000 15 -195349N
-random-search knapPI_16_1000_1000_3 1000 16 -192997N
-random-search knapPI_16_1000_1000_3 1000 17 -193322N
-random-search knapPI_16_1000_1000_3 1000 18 -189350N
-random-search knapPI_16_1000_1000_3 1000 19 -191643N
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 0 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 1 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 2 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 3 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 4 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 5 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 6 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 7 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 8 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 9 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 10 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 11 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 12 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 13 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 14 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 15 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 16 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 17 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 18 1440
+twopoint_crossover with tournament-selection knapPI_11_20_1000_4 1000 19 1440
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 0 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 1 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 2 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 3 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 4 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 5 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 6 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 7 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 8 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 9 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 10 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 11 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 12 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 13 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 14 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 15 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 16 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 17 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 18 907
+twopoint_crossover with tournament-selection knapPI_13_20_1000_4 1000 19 907
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 0 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 1 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 2 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 3 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 4 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 5 2864
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 6 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 7 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 8 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 9 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 10 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 11 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 12 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 13 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 14 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 15 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 16 2702
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 17 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 18 2893
+twopoint_crossover with tournament-selection knapPI_16_20_1000_4 1000 19 2893
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 0 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 1 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 2 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 3 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 4 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 5 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 6 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 7 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 8 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 9 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 10 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 11 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 12 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 13 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 14 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 15 5040
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 16 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 17 5140
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 18 5180
+twopoint_crossover with tournament-selection knapPI_11_200_1000_4 1000 19 5180
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 0 3637
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 1 3603
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 2 3645
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 3 3611
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 4 3645
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 5 3637
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 6 3637
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 7 3680
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 8 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 9 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 10 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 11 3611
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 12 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 13 3611
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 14 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 15 3637
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 16 3680
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 17 3663
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 18 3620
+twopoint_crossover with tournament-selection knapPI_13_200_1000_4 1000 19 3654
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 0 13336
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 1 12044
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 2 13526
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 3 13879
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 4 12496
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 5 12643
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 6 12575
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 7 13032
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 8 13729
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 9 13496
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 10 12144
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 11 12991
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 12 12989
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 13 13958
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 14 13122
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 15 13505
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 16 13353
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 17 11184
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 18 13156
+twopoint_crossover with tournament-selection knapPI_16_200_1000_4 1000 19 12065
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 0 39372
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 1 37619
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 2 37023
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 3 33615
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 4 37426
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 5 35837
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 6 37169
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 7 37803
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 8 36045
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 9 35569
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 10 34396
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 11 33098
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 12 36628
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 13 37923
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 14 34648
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 15 37478
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 16 37445
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 17 38835
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 18 37670
+twopoint_crossover with tournament-selection knapPI_16_1000_1000_3 1000 19 36244
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 0 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 1 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 2 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 3 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 4 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 5 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 6 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 7 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 8 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 9 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 10 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 11 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 12 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 13 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 14 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 15 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 16 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 17 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 18 1440
+twopoint_crossover with best-half selection knapPI_11_20_1000_4 1000 19 1440
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 0 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 1 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 2 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 3 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 4 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 5 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 6 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 7 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 8 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 9 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 10 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 11 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 12 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 13 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 14 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 15 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 16 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 17 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 18 907
+twopoint_crossover with best-half selection knapPI_13_20_1000_4 1000 19 907
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 0 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 1 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 2 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 3 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 4 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 5 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 6 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 7 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 8 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 9 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 10 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 11 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 12 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 13 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 14 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 15 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 16 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 17 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 18 2893
+twopoint_crossover with best-half selection knapPI_16_20_1000_4 1000 19 2893
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 0 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 1 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 2 5140
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 3 5140
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 4 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 5 5140
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 6 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 7 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 8 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 9 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 10 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 11 5060
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 12 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 13 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 14 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 15 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 16 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 17 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 18 5180
+twopoint_crossover with best-half selection knapPI_11_200_1000_4 1000 19 5180
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 0 3680
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 1 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 2 3680
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 3 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 4 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 5 3680
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 6 3680
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 7 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 8 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 9 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 10 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 11 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 12 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 13 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 14 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 15 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 16 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 17 3663
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 18 3680
+twopoint_crossover with best-half selection knapPI_13_200_1000_4 1000 19 3663
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 0 14800
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 1 14195
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 2 14468
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 3 14460
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 4 14015
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 5 14165
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 6 14748
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 7 15011
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 8 15186
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 9 15270
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 10 15167
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 11 14713
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 12 14916
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 13 15095
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 14 14831
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 15 15252
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 16 14230
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 17 14152
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 18 14891
+twopoint_crossover with best-half selection knapPI_16_200_1000_4 1000 19 14947
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 0 46755
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 1 48561
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 2 50322
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 3 49264
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 4 48319
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 5 48657
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 6 49017
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 7 49130
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 8 50610
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 9 48752
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 10 48731
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 11 48328
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 12 50055
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 13 46856
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 14 49285
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 15 47634
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 16 51321
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 17 49461
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 18 49460
+twopoint_crossover with best-half selection knapPI_16_1000_1000_3 1000 19 48482
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 0 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 1 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 2 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 3 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 4 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 5 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 6 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 7 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 8 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 9 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 10 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 11 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 12 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 13 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 14 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 15 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 16 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 17 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 18 1440
+uniform_crossover with tournament-selection knapPI_11_20_1000_4 1000 19 1440
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 0 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 1 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 2 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 3 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 4 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 5 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 6 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 7 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 8 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 9 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 10 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 11 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 12 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 13 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 14 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 15 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 16 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 17 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 18 907
+uniform_crossover with tournament-selection knapPI_13_20_1000_4 1000 19 907
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 0 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 1 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 2 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 3 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 4 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 5 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 6 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 7 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 8 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 9 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 10 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 11 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 12 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 13 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 14 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 15 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 16 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 17 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 18 2893
+uniform_crossover with tournament-selection knapPI_16_20_1000_4 1000 19 2893
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 0 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 1 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 2 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 3 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 4 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 5 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 6 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 7 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 8 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 9 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 10 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 11 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 12 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 13 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 14 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 15 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 16 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 17 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 18 5180
+uniform_crossover with tournament-selection knapPI_11_200_1000_4 1000 19 5180
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 0 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 1 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 2 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 3 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 4 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 5 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 6 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 7 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 8 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 9 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 10 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 11 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 12 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 13 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 14 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 15 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 16 3663
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 17 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 18 3680
+uniform_crossover with tournament-selection knapPI_13_200_1000_4 1000 19 3680
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 0 15215
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 1 15533
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 2 15589
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 3 14954
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 4 15837
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 5 15254
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 6 15245
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 7 15535
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 8 15550
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 9 15831
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 10 15582
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 11 15197
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 12 15840
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 13 15320
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 14 15581
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 15 15844
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 16 15511
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 17 14908
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 18 15562
+uniform_crossover with tournament-selection knapPI_16_200_1000_4 1000 19 15851
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 0 58480
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 1 58664
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 2 57387
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 3 61030
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 4 60490
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 5 60575
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 6 60285
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 7 60601
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 8 59335
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 9 58304
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 10 58792
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 11 58547
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 12 60072
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 13 60049
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 14 57539
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 15 57997
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 16 59293
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 17 57831
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 18 58001
+uniform_crossover with tournament-selection knapPI_16_1000_1000_3 1000 19 58317
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 0 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 1 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 2 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 3 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 4 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 5 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 6 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 7 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 8 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 9 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 10 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 11 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 12 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 13 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 14 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 15 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 16 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 17 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 18 1440
+uniform_crossover with best-half selection knapPI_11_20_1000_4 1000 19 1440
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 0 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 1 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 2 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 3 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 4 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 5 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 6 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 7 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 8 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 9 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 10 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 11 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 12 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 13 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 14 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 15 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 16 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 17 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 18 907
+uniform_crossover with best-half selection knapPI_13_20_1000_4 1000 19 907
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 0 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 1 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 2 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 3 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 4 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 5 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 6 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 7 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 8 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 9 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 10 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 11 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 12 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 13 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 14 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 15 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 16 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 17 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 18 2893
+uniform_crossover with best-half selection knapPI_16_20_1000_4 1000 19 2893
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 0 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 1 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 2 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 3 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 4 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 5 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 6 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 7 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 8 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 9 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 10 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 11 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 12 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 13 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 14 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 15 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 16 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 17 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 18 5180
+uniform_crossover with best-half selection knapPI_11_200_1000_4 1000 19 5180
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 0 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 1 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 2 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 3 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 4 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 5 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 6 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 7 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 8 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 9 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 10 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 11 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 12 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 13 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 14 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 15 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 16 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 17 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 18 3680
+uniform_crossover with best-half selection knapPI_13_200_1000_4 1000 19 3680
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 0 15450
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 1 15497
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 2 15353
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 3 15081
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 4 15265
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 5 14970
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 6 15422
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 7 14761
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 8 15395
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 9 15142
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 10 15112
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 11 15038
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 12 15124
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 13 14929
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 14 15425
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 15 15124
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 16 15497
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 17 15127
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 18 15260
+uniform_crossover with best-half selection knapPI_16_200_1000_4 1000 19 15011
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 0 59769
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 1 58654
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 2 56983
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 3 59052
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 4 60092
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 5 57632
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 6 58623
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 7 58693
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 8 59207
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 9 58598
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 10 59364
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 11 58121
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 12 57136
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 13 58631
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 14 59805
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 15 59153
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 16 58532
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 17 59206
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 18 57541
+uniform_crossover with best-half selection knapPI_16_1000_1000_3 1000 19 57949
+vanilla hill-climber knapPI_11_20_1000_4 1000 0 1440
+vanilla hill-climber knapPI_11_20_1000_4 1000 1 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 2 1320
+vanilla hill-climber knapPI_11_20_1000_4 1000 3 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 4 1320
+vanilla hill-climber knapPI_11_20_1000_4 1000 5 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 6 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 7 1440
+vanilla hill-climber knapPI_11_20_1000_4 1000 8 1320
+vanilla hill-climber knapPI_11_20_1000_4 1000 9 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 10 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 11 1440
+vanilla hill-climber knapPI_11_20_1000_4 1000 12 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 13 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 14 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 15 1440
+vanilla hill-climber knapPI_11_20_1000_4 1000 16 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 17 1320
+vanilla hill-climber knapPI_11_20_1000_4 1000 18 1400
+vanilla hill-climber knapPI_11_20_1000_4 1000 19 1320
+vanilla hill-climber knapPI_13_20_1000_4 1000 0 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 1 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 2 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 3 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 4 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 5 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 6 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 7 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 8 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 9 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 10 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 11 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 12 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 13 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 14 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 15 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 16 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 17 889
+vanilla hill-climber knapPI_13_20_1000_4 1000 18 907
+vanilla hill-climber knapPI_13_20_1000_4 1000 19 889
+vanilla hill-climber knapPI_16_20_1000_4 1000 0 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 1 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 2 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 3 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 4 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 5 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 6 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 7 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 8 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 9 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 10 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 11 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 12 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 13 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 14 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 15 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 16 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 17 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 18 2893
+vanilla hill-climber knapPI_16_20_1000_4 1000 19 2893
+vanilla hill-climber knapPI_11_200_1000_4 1000 0 5140
+vanilla hill-climber knapPI_11_200_1000_4 1000 1 5060
+vanilla hill-climber knapPI_11_200_1000_4 1000 2 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 3 5180
+vanilla hill-climber knapPI_11_200_1000_4 1000 4 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 5 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 6 5020
+vanilla hill-climber knapPI_11_200_1000_4 1000 7 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 8 5020
+vanilla hill-climber knapPI_11_200_1000_4 1000 9 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 10 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 11 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 12 5140
+vanilla hill-climber knapPI_11_200_1000_4 1000 13 5140
+vanilla hill-climber knapPI_11_200_1000_4 1000 14 5060
+vanilla hill-climber knapPI_11_200_1000_4 1000 15 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 16 4980
+vanilla hill-climber knapPI_11_200_1000_4 1000 17 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 18 5100
+vanilla hill-climber knapPI_11_200_1000_4 1000 19 5100
+vanilla hill-climber knapPI_13_200_1000_4 1000 0 3603
+vanilla hill-climber knapPI_13_200_1000_4 1000 1 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 2 3620
+vanilla hill-climber knapPI_13_200_1000_4 1000 3 3603
+vanilla hill-climber knapPI_13_200_1000_4 1000 4 3620
+vanilla hill-climber knapPI_13_200_1000_4 1000 5 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 6 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 7 3620
+vanilla hill-climber knapPI_13_200_1000_4 1000 8 3663
+vanilla hill-climber knapPI_13_200_1000_4 1000 9 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 10 3603
+vanilla hill-climber knapPI_13_200_1000_4 1000 11 3620
+vanilla hill-climber knapPI_13_200_1000_4 1000 12 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 13 3663
+vanilla hill-climber knapPI_13_200_1000_4 1000 14 3663
+vanilla hill-climber knapPI_13_200_1000_4 1000 15 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 16 3654
+vanilla hill-climber knapPI_13_200_1000_4 1000 17 3637
+vanilla hill-climber knapPI_13_200_1000_4 1000 18 3663
+vanilla hill-climber knapPI_13_200_1000_4 1000 19 3637
+vanilla hill-climber knapPI_16_200_1000_4 1000 0 13834
+vanilla hill-climber knapPI_16_200_1000_4 1000 1 13412
+vanilla hill-climber knapPI_16_200_1000_4 1000 2 13261
+vanilla hill-climber knapPI_16_200_1000_4 1000 3 14336
+vanilla hill-climber knapPI_16_200_1000_4 1000 4 12995
+vanilla hill-climber knapPI_16_200_1000_4 1000 5 13460
+vanilla hill-climber knapPI_16_200_1000_4 1000 6 13231
+vanilla hill-climber knapPI_16_200_1000_4 1000 7 12448
+vanilla hill-climber knapPI_16_200_1000_4 1000 8 13930
+vanilla hill-climber knapPI_16_200_1000_4 1000 9 14355
+vanilla hill-climber knapPI_16_200_1000_4 1000 10 13012
+vanilla hill-climber knapPI_16_200_1000_4 1000 11 14706
+vanilla hill-climber knapPI_16_200_1000_4 1000 12 14068
+vanilla hill-climber knapPI_16_200_1000_4 1000 13 14226
+vanilla hill-climber knapPI_16_200_1000_4 1000 14 11948
+vanilla hill-climber knapPI_16_200_1000_4 1000 15 13482
+vanilla hill-climber knapPI_16_200_1000_4 1000 16 12785
+vanilla hill-climber knapPI_16_200_1000_4 1000 17 13812
+vanilla hill-climber knapPI_16_200_1000_4 1000 18 13638
+vanilla hill-climber knapPI_16_200_1000_4 1000 19 13699
+vanilla hill-climber knapPI_16_1000_1000_3 1000 0 43034
+vanilla hill-climber knapPI_16_1000_1000_3 1000 1 43981
+vanilla hill-climber knapPI_16_1000_1000_3 1000 2 40623
+vanilla hill-climber knapPI_16_1000_1000_3 1000 3 39935
+vanilla hill-climber knapPI_16_1000_1000_3 1000 4 38924
+vanilla hill-climber knapPI_16_1000_1000_3 1000 5 43069
+vanilla hill-climber knapPI_16_1000_1000_3 1000 6 44955
+vanilla hill-climber knapPI_16_1000_1000_3 1000 7 41850
+vanilla hill-climber knapPI_16_1000_1000_3 1000 8 40718
+vanilla hill-climber knapPI_16_1000_1000_3 1000 9 45407
+vanilla hill-climber knapPI_16_1000_1000_3 1000 10 44717
+vanilla hill-climber knapPI_16_1000_1000_3 1000 11 40104
+vanilla hill-climber knapPI_16_1000_1000_3 1000 12 40467
+vanilla hill-climber knapPI_16_1000_1000_3 1000 13 38915
+vanilla hill-climber knapPI_16_1000_1000_3 1000 14 41480
+vanilla hill-climber knapPI_16_1000_1000_3 1000 15 42467
+vanilla hill-climber knapPI_16_1000_1000_3 1000 16 45174
+vanilla hill-climber knapPI_16_1000_1000_3 1000 17 41992
+vanilla hill-climber knapPI_16_1000_1000_3 1000 18 44336
+vanilla hill-climber knapPI_16_1000_1000_3 1000 19 40793
+random-search knapPI_11_20_1000_4 1000 0 1400
+random-search knapPI_11_20_1000_4 1000 1 1440
+random-search knapPI_11_20_1000_4 1000 2 1400
+random-search knapPI_11_20_1000_4 1000 3 1400
+random-search knapPI_11_20_1000_4 1000 4 1440
+random-search knapPI_11_20_1000_4 1000 5 1400
+random-search knapPI_11_20_1000_4 1000 6 1440
+random-search knapPI_11_20_1000_4 1000 7 1400
+random-search knapPI_11_20_1000_4 1000 8 1400
+random-search knapPI_11_20_1000_4 1000 9 1400
+random-search knapPI_11_20_1000_4 1000 10 1400
+random-search knapPI_11_20_1000_4 1000 11 1400
+random-search knapPI_11_20_1000_4 1000 12 1400
+random-search knapPI_11_20_1000_4 1000 13 1400
+random-search knapPI_11_20_1000_4 1000 14 1400
+random-search knapPI_11_20_1000_4 1000 15 1400
+random-search knapPI_11_20_1000_4 1000 16 1400
+random-search knapPI_11_20_1000_4 1000 17 1400
+random-search knapPI_11_20_1000_4 1000 18 1400
+random-search knapPI_11_20_1000_4 1000 19 1400
+random-search knapPI_13_20_1000_4 1000 0 889
+random-search knapPI_13_20_1000_4 1000 1 907
+random-search knapPI_13_20_1000_4 1000 2 907
+random-search knapPI_13_20_1000_4 1000 3 907
+random-search knapPI_13_20_1000_4 1000 4 890
+random-search knapPI_13_20_1000_4 1000 5 907
+random-search knapPI_13_20_1000_4 1000 6 907
+random-search knapPI_13_20_1000_4 1000 7 907
+random-search knapPI_13_20_1000_4 1000 8 907
+random-search knapPI_13_20_1000_4 1000 9 907
+random-search knapPI_13_20_1000_4 1000 10 907
+random-search knapPI_13_20_1000_4 1000 11 907
+random-search knapPI_13_20_1000_4 1000 12 907
+random-search knapPI_13_20_1000_4 1000 13 907
+random-search knapPI_13_20_1000_4 1000 14 907
+random-search knapPI_13_20_1000_4 1000 15 907
+random-search knapPI_13_20_1000_4 1000 16 889
+random-search knapPI_13_20_1000_4 1000 17 907
+random-search knapPI_13_20_1000_4 1000 18 907
+random-search knapPI_13_20_1000_4 1000 19 907
+random-search knapPI_16_20_1000_4 1000 0 2702
+random-search knapPI_16_20_1000_4 1000 1 2886
+random-search knapPI_16_20_1000_4 1000 2 2893
+random-search knapPI_16_20_1000_4 1000 3 2675
+random-search knapPI_16_20_1000_4 1000 4 2549
+random-search knapPI_16_20_1000_4 1000 5 2893
+random-search knapPI_16_20_1000_4 1000 6 2864
+random-search knapPI_16_20_1000_4 1000 7 2664
+random-search knapPI_16_20_1000_4 1000 8 2597
+random-search knapPI_16_20_1000_4 1000 9 2675
+random-search knapPI_16_20_1000_4 1000 10 2550
+random-search knapPI_16_20_1000_4 1000 11 2893
+random-search knapPI_16_20_1000_4 1000 12 2675
+random-search knapPI_16_20_1000_4 1000 13 2593
+random-search knapPI_16_20_1000_4 1000 14 2489
+random-search knapPI_16_20_1000_4 1000 15 2864
+random-search knapPI_16_20_1000_4 1000 16 2724
+random-search knapPI_16_20_1000_4 1000 17 2702
+random-search knapPI_16_20_1000_4 1000 18 2575
+random-search knapPI_16_20_1000_4 1000 19 2542
+random-search knapPI_11_200_1000_4 1000 0 -31968
+random-search knapPI_11_200_1000_4 1000 1 -31680
+random-search knapPI_11_200_1000_4 1000 2 -29399
+random-search knapPI_11_200_1000_4 1000 3 -33116
+random-search knapPI_11_200_1000_4 1000 4 -31746
+random-search knapPI_11_200_1000_4 1000 5 -33012
+random-search knapPI_11_200_1000_4 1000 6 -32440
+random-search knapPI_11_200_1000_4 1000 7 -32571
+random-search knapPI_11_200_1000_4 1000 8 -33027
+random-search knapPI_11_200_1000_4 1000 9 -30429
+random-search knapPI_11_200_1000_4 1000 10 -32803
+random-search knapPI_11_200_1000_4 1000 11 -32300
+random-search knapPI_11_200_1000_4 1000 12 -32312
+random-search knapPI_11_200_1000_4 1000 13 -31815
+random-search knapPI_11_200_1000_4 1000 14 -33508
+random-search knapPI_11_200_1000_4 1000 15 -32398
+random-search knapPI_11_200_1000_4 1000 16 -30908
+random-search knapPI_11_200_1000_4 1000 17 -31754
+random-search knapPI_11_200_1000_4 1000 18 -31193
+random-search knapPI_11_200_1000_4 1000 19 -33651
+random-search knapPI_13_200_1000_4 1000 0 -17150
+random-search knapPI_13_200_1000_4 1000 1 -19103
+random-search knapPI_13_200_1000_4 1000 2 -19385
+random-search knapPI_13_200_1000_4 1000 3 -20213
+random-search knapPI_13_200_1000_4 1000 4 -20210
+random-search knapPI_13_200_1000_4 1000 5 -18350
+random-search knapPI_13_200_1000_4 1000 6 -20708
+random-search knapPI_13_200_1000_4 1000 7 -19961
+random-search knapPI_13_200_1000_4 1000 8 -20672
+random-search knapPI_13_200_1000_4 1000 9 -20495
+random-search knapPI_13_200_1000_4 1000 10 -19958
+random-search knapPI_13_200_1000_4 1000 11 -19853
+random-search knapPI_13_200_1000_4 1000 12 -20438
+random-search knapPI_13_200_1000_4 1000 13 -18278
+random-search knapPI_13_200_1000_4 1000 14 -20177
+random-search knapPI_13_200_1000_4 1000 15 -18719
+random-search knapPI_13_200_1000_4 1000 16 -20639
+random-search knapPI_13_200_1000_4 1000 17 -19127
+random-search knapPI_13_200_1000_4 1000 18 -20468
+random-search knapPI_13_200_1000_4 1000 19 -20078
+random-search knapPI_16_200_1000_4 1000 0 -31519
+random-search knapPI_16_200_1000_4 1000 1 -31148
+random-search knapPI_16_200_1000_4 1000 2 -30899
+random-search knapPI_16_200_1000_4 1000 3 -29615
+random-search knapPI_16_200_1000_4 1000 4 -29823
+random-search knapPI_16_200_1000_4 1000 5 -30586
+random-search knapPI_16_200_1000_4 1000 6 -31387
+random-search knapPI_16_200_1000_4 1000 7 -29979
+random-search knapPI_16_200_1000_4 1000 8 -31310
+random-search knapPI_16_200_1000_4 1000 9 -31387
+random-search knapPI_16_200_1000_4 1000 10 -29337
+random-search knapPI_16_200_1000_4 1000 11 -30965
+random-search knapPI_16_200_1000_4 1000 12 -30159
+random-search knapPI_16_200_1000_4 1000 13 -30440
+random-search knapPI_16_200_1000_4 1000 14 -30795
+random-search knapPI_16_200_1000_4 1000 15 -30630
+random-search knapPI_16_200_1000_4 1000 16 -30212
+random-search knapPI_16_200_1000_4 1000 17 -31011
+random-search knapPI_16_200_1000_4 1000 18 -30227
+random-search knapPI_16_200_1000_4 1000 19 -31540
+random-search knapPI_16_1000_1000_3 1000 0 -194864
+random-search knapPI_16_1000_1000_3 1000 1 -197042
+random-search knapPI_16_1000_1000_3 1000 2 -194452
+random-search knapPI_16_1000_1000_3 1000 3 -197038
+random-search knapPI_16_1000_1000_3 1000 4 -193383
+random-search knapPI_16_1000_1000_3 1000 5 -194396
+random-search knapPI_16_1000_1000_3 1000 6 -196144
+random-search knapPI_16_1000_1000_3 1000 7 -195305
+random-search knapPI_16_1000_1000_3 1000 8 -195105
+random-search knapPI_16_1000_1000_3 1000 9 -193931
+random-search knapPI_16_1000_1000_3 1000 10 -197774
+random-search knapPI_16_1000_1000_3 1000 11 -196312
+random-search knapPI_16_1000_1000_3 1000 12 -197269
+random-search knapPI_16_1000_1000_3 1000 13 -195080
+random-search knapPI_16_1000_1000_3 1000 14 -191520
+random-search knapPI_16_1000_1000_3 1000 15 -195349
+random-search knapPI_16_1000_1000_3 1000 16 -192997
+random-search knapPI_16_1000_1000_3 1000 17 -193322
+random-search knapPI_16_1000_1000_3 1000 18 -189350
+random-search knapPI_16_1000_1000_3 1000 19 -191643
