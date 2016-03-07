@@ -1,4 +1,4 @@
-#This is our explanation of our Population search algorithm
+#This is our explanation of our Population search algorithms
 
 Before starting crossover, we modified our regular hillclimber to not do random restarts and to not use loop-recur
 
